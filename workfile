@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html>
+<style>
+header{
+text-align:center;
+font-size:42;
+</style>
 <head>
-<h1 style="text-align:center;">The Family: Your Online Source For All The Facts You Need </h1>
+<h1 style="text-align:center;"><header>The Family: Your Online Source For All The Facts You Need<header/> </h1>
 
 </head>
 
