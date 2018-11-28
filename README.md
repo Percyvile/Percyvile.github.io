@@ -27,7 +27,6 @@ font-size:22px;
 
 
 <body style="background-color:lightsteelblue;">
-<//left column>
 <div class="row">
   <div class="column"><p><para>
   You may be wondering why you're on this webpage as opposed to watching the White Clown or the Family. The answer is that if you're here, we've successfully directed you to the official Firehouse-sponsored Webpage. This site is your favorite location for all information that you MUST know.
@@ -39,7 +38,6 @@ No government can stand alone. Even the glorious Fire Department must take inspi
 </para></p>
 
 </div>
-<//right column>
   <div class="column">
   <iframe width="500" height="300" src="https://www.youtube.com/embed/d-diB65scQU?rel=0" frameborder="0" allowfullscreen></iframe>
   
