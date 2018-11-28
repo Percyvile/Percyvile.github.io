@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <style>
 header{
@@ -22,8 +21,7 @@ font-size:22px;
 }
 </style>
 <head>
-<h1 style="text-align:center; background-color:red;"><header>The Family: Your Online Source For All The Facts You Need</header> 
-    </h1>
+<h1 style="text-align:center; background-color:red;">The Family: Your Online Source For All The Facts You Need</h1>
 
 </head>
 
