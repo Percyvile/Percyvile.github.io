@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <style>
 header{
 text-align:center;
@@ -13,7 +14,7 @@ font-size:22px;
     width: 50%;
 }
 
-/* Clear floats after the columns */
+
 .row:after {
     content: "";
     display: table;
@@ -21,7 +22,8 @@ font-size:22px;
 }
 </style>
 <head>
-<h1 style="text-align:center; background-color:red;"><header>The Family: Your Online Source For All The Facts You Need<header/> </h1>
+<h1 style="text-align:center; background-color:red;"><header>The Family: Your Online Source For All The Facts You Need</header> 
+    </h1>
 
 </head>
 
@@ -57,7 +59,7 @@ No government can stand alone. Even the glorious Fire Department must take inspi
 </body>
 
 
-
+</html>
 
 
 
