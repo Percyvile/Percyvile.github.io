@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 <style>
 header{
 text-align:center;
@@ -70,4 +69,3 @@ No government can stand alone. Even the glorious Fire Department must take inspi
 
 
 
-</html>
