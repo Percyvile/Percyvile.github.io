@@ -40,9 +40,11 @@ No government can stand alone. Even the glorious Fire Department must take inspi
 </div>
   <div class="column">
   <iframe width="500" height="300" src="https://www.youtube.com/embed/d-diB65scQU?rel=0" frameborder="0" allowfullscreen></iframe>
+  <br> <br> <br> <br> 
+  <p style="font-size:50; color:red;"> New Articles Every Monday! <br> <br> Next Week: Top Ten Hilarious Rebel Executions That'll Blow Your Mind! </p>
+ </div>
   
-  </div>
-</div>
+
 
   
   
