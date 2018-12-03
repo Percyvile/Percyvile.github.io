@@ -19,7 +19,8 @@ font-size:22px;
     display: table;
     clear: both;
 }
-ad{font-size:30px;
+ad{
+font-size:30px;
 }
 </style>
 <head>
@@ -53,7 +54,7 @@ Our government is strong and swift in detaining the guilty, but it is also just 
 <p style="font-size:50; color:red;"> Are You Running Low on Toothpaste? <br><ad> Go to a store near you and pick up Denham's Dentrifice for a whiter smile that will wow your friends and family.</ad> </p>
  </div>
   
-
+</div>
 
   
   
